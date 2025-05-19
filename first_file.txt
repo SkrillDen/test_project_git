@@ -1,2 +1,2 @@
 Hello!
-2nd string
+2nd stringnew string
